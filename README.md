@@ -1,2 +1,2 @@
 # getahome
-This project is completely build by using pure CSS and HTML for my preparation of them.
+Plain UI with the help of #HTML5 , #CSS3(Flexbox, Grid) and #SASS. I have prepared this front-end for my preparation of CSS.
